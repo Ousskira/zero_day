@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1696075033,,"wq!"
+|2,0,1696075249,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,31 @@
 # Registers:
 
 # File marks:
-'0  9  24  ~/README.md
-|4,48,9,24,1696075033,"~/README.md"
+'0  11  28  ~/README.md
+|4,48,11,28,1696075249,"~/README.md"
+'1  9  24  ~/README.md
+|4,49,9,24,1696075033,"~/README.md"
+'2  9  24  ~/README.md
+|4,50,9,24,1696075033,"~/README.md"
 
 # Jumplist (newest first):
+-'  11  28  ~/README.md
+|4,39,11,28,1696075249,"~/README.md"
+-'  9  24  ~/README.md
+|4,39,9,24,1696075197,"~/README.md"
 -'  9  24  ~/README.md
 |4,39,9,24,1696075033,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1696074786,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1696074786,"~/README.md"
 
 # History of marks within files (newest to oldest):
 
 > ~/README.md
-	*	1696075019	0
-	"	9	24
-	^	9	25
-	.	9	24
-	+	9	24
+	*	1696075244	0
+	"	11	28
+	^	11	29
+	.	11	28
+	+	9	25
+	+	11	28

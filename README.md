@@ -7,3 +7,5 @@
 * Who wrote Vagrant
 * What is Ubuntu
 * what does "Ubuntu" mean
+* How to use VMs with Vagrantn
+* How to use VMs with Vagrant
