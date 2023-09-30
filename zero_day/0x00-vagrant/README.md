@@ -1,1 +1,1 @@
-sshssh
+ssh
